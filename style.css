@@ -1,6 +1,7 @@
 body{
 	background-image: linear-gradient(to right , #000000 ,#EADEDE);
 	box-sizing: border-box;
+	font-family: 'Roboto', sans-serif;
 }
 .container{
 	margin-top: 40px;
