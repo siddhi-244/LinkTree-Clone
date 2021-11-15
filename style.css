@@ -2,6 +2,7 @@ body{
 	background-image: linear-gradient(to right , #000000 ,#EADEDE);
 	box-sizing: border-box;
 	font-family: 'Roboto', sans-serif;
+	overflow: hidden;
 }
 .container{
 	margin-top: 40px;
@@ -18,11 +19,9 @@ body{
 	display: flex;
 	align-items: center;
 	justify-content: center;
-
 }
 .text p{
 	color: white;
-	font-weight: 300;
 	font-size: 20px;
 }
 .box{
@@ -77,4 +76,19 @@ body{
      .info{
      	margin-left: 65px;
      }
+}
+.link1{
+	animation-delay: 0.7s;
+}
+.link2{
+	animation-delay: 0.9s;
+}
+.link3{
+	animation-delay: 1.1s;
+}
+.link4{
+	animation-delay: 1.3s;
+}
+.link5{
+	animation-delay: 1.5s;
 }
